@@ -1,0 +1,12 @@
+.card{
+    width: initial;
+}
+
+.beneficios{
+    color:'#0050b3'
+
+}
+
+.beneficios-container{
+    justify-content: center;
+}
